@@ -1,0 +1,87 @@
+
+ /*.header{
+     background-color: crimson;
+     display: flex;
+     justify-content: space-between;
+ }*/
+
+ /*.social{
+     display:flex;
+     justify-content: flex-end;
+ }
+ p,h2{
+     text-align: center;
+ }
+ p,h1{
+     text-align: center;
+ }
+ 
+
+.menu{
+     margin-right: 30px;
+     
+
+ }
+ .menu a{
+     margin-right: 50px
+ }*/
+ li{
+    
+    display:flex;
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+    
+}
+h1{
+    color: goldenrod;
+    margin-left: 500px;
+    
+ }
+ a:link{
+    color:rgb(172, 47, 255)
+    text-decoration: none
+}
+a:visited{
+    color:palevioletred
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff
+}
+body{
+    margin: 0px;
+    background-color: #f7f7e4;
+
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px
+}
+.origami{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.origami:hover{
+    transform:scale(1,2)
+}
+.cite{
+    text: "Whats uppppp?" 
+}
+
+ 
+
+
